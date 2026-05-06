@@ -12,7 +12,7 @@ function palindrome(n) {
     return dup === revNum;
 }
 
-// Driver code
+
 let number = 4554;
 
 if (palindrome(number)) {
